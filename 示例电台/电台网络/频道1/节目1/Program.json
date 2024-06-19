@@ -1,0 +1,9 @@
+
+{
+    "name": "节目1",
+    "description": "这是电台网络的频道1的其中一个节目",
+    "startTime": "00:00",
+    "endTime": "00:00",
+    "loopProgram": true,
+    "pairIntroOutro": false
+}

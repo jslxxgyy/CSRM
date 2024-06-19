@@ -1,0 +1,17 @@
+[2_3]
+music1=output.ogg
+music2=
+music3=
+music4=
+music5=
+music6=
+music7=
+music8=
+music9=
+music10=
+music11=
+music12=
+music13=
+music14=
+music15=
+music16=
