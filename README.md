@@ -25,7 +25,7 @@
 - 节目名称对应⑤<br>
 - 节目描述对应⑥<br>
 - 开始时间和结束时间对应⑦<br>
-![电台 UI 图片]([https://raw.githubusercontent.com/jslxxgyy/CSRM/main/docs/network.png] "电台 UI 图片")
+![电台 UI 图片](https://raw.githubusercontent.com/jslxxgyy/CSRM/main/docs/network.png "电台 UI 图片")
 ### 用户提示：
 #### 如果不填写开始时间和结束时间，那么⑦处对应的时间和进度条将不会变化。<br>
 #### 在以上信息填写完毕后，点击管理音乐，即可向电台中添加音乐。现已支持主流的音频格式，如果非.ogg文件则会调用ffmpeg自动转换。<br>
