@@ -28,7 +28,7 @@
 
 <div align="center">
   
-<img  scr="https://raw.githubusercontent.com/jslxxgyy/CSRM/main/docs/network.png" alt="这就是一张图片" >
+<img  src="https://raw.githubusercontent.com/jslxxgyy/CSRM/main/docs/network.png" alt="这就是一张图片" >
 
 </div>
 
