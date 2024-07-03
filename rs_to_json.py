@@ -4,12 +4,18 @@ import os
 import argparse
 
 def load_rs_file(path,encoding='gbk'):
+    """
+    加载电台配置文件。
+    """
     config = configparser.ConfigParser()
     with open(path,'r',encoding=encoding) as file:
         config.read_file(file)
     return config
 
 def write_json(data, filename):
+    """
+    将电台配置数据写入 JSON 文件。
+    """
     with open(filename, 'w', encoding='utf-8') as f:
         json.dump(data, f, ensure_ascii=False, indent=4)
 
@@ -23,7 +29,6 @@ def convert_rs_to_json(input_path, output_path):
     # 处理 [RadioNetwork] 节
     radio_network = {
         "name": config['RadioNetwork']['name'],
-        "nameId": config['RadioNetwork']['nameID'],
         "description": config['RadioNetwork']['description'],
         "descriptionId": config['RadioNetwork']['descriptionId'],
         "icon": config['RadioNetwork']['icon'],
@@ -34,7 +39,6 @@ def convert_rs_to_json(input_path, output_path):
     # 处理 [RadioChannel] 节
     radio_channel = {
         "name": config['RadioChannel']['name'],
-        "nameId": config['RadioChannel']['nameID'],
         "description": config['RadioChannel']['description'],
         "icon": config['RadioChannel']['icon']
     }
@@ -44,6 +48,7 @@ def convert_rs_to_json(input_path, output_path):
     program = {
         "name": config['Program']['name'],
         "description": config['Program']['description'],
+        "icon":config['Program']['icon'],
         "startTime": config['Program']['startTime'],
         "endTime": config['Program']['endTime'],
         "loopProgram": config['Program'].getboolean('loopProgram'),
@@ -54,10 +59,7 @@ def convert_rs_to_json(input_path, output_path):
     # 处理 [Segment] 节
     segment = {
         "type": "Playlist",
-        "tags": [
-            "type:Music",
-            "radio channel:音乐"
-        ],
+        "tags": [],
         "clipsCap": config['Segment'].getint('clipsCap')
     }
     write_json(segment, os.path.join(output_path, 'Segment.json'))
