@@ -56,7 +56,7 @@ Click the confirm button to save the music configuration file, then click the ne
 ## Problem Feedback:
 If you encounter any issues during the operation of the program, please clear the temporary files directory and try again. If the problem persists, submit feedback on the cslbbs page. Given the difficulty of accessing GitHub in China, I will prioritize issues reported on cslbbs.
 ### When Submitting a Problem:
-① Provide a detailed description of the issue or provide videos or screenshots where the issue occurs
-② State the program's version number and compilation time
-③ Upload the load.ini file from the same directory as the program
-④ If there are files in the temporary files directory, upload them together.
+① Provide a detailed description of the issue or provide videos or screenshots where the issue occurs.  
+② State the program's version number and compilation time.  
+③ Upload the load.ini file from the same directory as the program.  
+④ If there are files in the temporary files directory, upload them together.  
