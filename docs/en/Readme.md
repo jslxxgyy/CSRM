@@ -1,8 +1,8 @@
 
 <div align="center">
-
-# Cities Skylines Radio Manager, CSRM
-### A GUI software for creating radio stations in "Cities: Skylines II."
+The content of this document may differ from the Simplified Chinese version and the Simplified Chinese version shall prevail.
+<h1>Cities Skylines Radio Manager, CSRM</h1>
+<h3>A GUI software for creating radio stations in "Cities: Skylines II."</h3> 
 
 </div>
 
