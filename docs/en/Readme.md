@@ -7,7 +7,7 @@ The content of this document may differ from the Simplified Chinese version and 
 </div>
 
 # **Important Notice:**
-# **This software is written in EasyLanguage and most antivirus programs will recognize it as a Trojan virus. If security warnings appear, please add the program to the trust zone yourself. I have tried to scramble the compiled results as much as possible, and the source code is open source. If this concerns you, please refrain from using it!**
+# **This software is written in Eiyuyan and most antivirus programs will recognize it as a Trojan virus. If security warnings appear, please add the program to the trust zone yourself. I have tried to scramble the compiled results as much as possible, and the source code is open source. If this concerns you, please refrain from using it!**
 
 ### Software Features:
 #### This software is fully GUI-based and can generate a radio directory tree and corresponding JSON configuration files based on user input without the need for manual JSON editing, offering user-friendly interaction. It includes ffmpeg to convert audio files to the required .ogg format.
