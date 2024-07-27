@@ -1,13 +1,13 @@
 <div align="center">
 
-<h1>Cities Skylines Radio Manager,CSRM</h1>
+<h2>Cities Skylines Radio Manager,CSRM</h2>
 <h3>一个GUI化的《都市:天际线Ⅱ》电台制作软件。<br></h3>
 <a href="https://github.com/jslxxgyy/CSRM/blob/main/docs/cn/READMD.md">简体中文</a>丨丨<a href="https://github.com/jslxxgyy/CSRM/blob/main/docs/en/Readme.md">English</a>
 
 </div>
 
-# **重要提醒：**<br>
-# **本软件由易语言编写，大部分杀毒软件都会将其识别为木马病毒。如出现安全提示请自行添加信任区，本人已尽量对编译结果做了打乱处理，源码已开源，介意勿用！**<br>
+# ***重要提醒：***<br>
+# ***本软件由易语言编写，大部分杀毒软件都会将其识别为木马病毒。如出现安全提示请自行添加信任区，本人已尽量对编译结果做了打乱处理，源码已开源，介意勿用！***<br>
 
 ### 软件特点：
 #### 本软件完全采用 GUI 界面，可根据用户输入的内容来一键生成电台目录树及对应的json配置文件，无需手动编辑 json 文件，交互友好。自带 ffmpeg，可以将音频文件转换为需要的 .ogg 格式。
@@ -15,6 +15,7 @@
 #### 如出现软件自行编译后的结果与发行版本哈希值不同，可能是因为易语言配置中的“编译结果打乱码”与本人设置不同，并不是因为发布的源码编译版本的源码不一致。请更改此设置为303039437后再尝试。<br>
 ### 用户提示：
 #### 在使用此软件前，请确保你已经安装了 cities-skylines-2 模组 [ExtendedRadio](https://www.cslbbs.net/resources/extendedradio.326/)并能被正常加载。本软件可从CSUL的配置中读取游戏相关目录，建议与CSUL安装在同目录下。<br>
+视频教程点[这儿](https://www.bilibili.com/video/BV1Hvh1evEuw/)
 ## 使用方法之新建电台：<br>
 - 1.启动主程序点击新建电台打开电台新建窗口<br>
 - 2.填写对应信息标*的为必填。
