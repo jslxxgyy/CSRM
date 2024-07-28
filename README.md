@@ -18,6 +18,8 @@
 ### 用户提示：
 #### 在使用此软件前，请确保你已经安装了 cities-skylines-2 模组 [ExtendedRadio](https://www.cslbbs.net/resources/extendedradio.326/)并能被正常加载。本软件可从CSUL的配置中读取游戏相关目录，建议与CSUL安装在同目录下。<br>
 视频教程点[这儿](https://www.bilibili.com/video/BV1Hvh1evEuw/)
+
+
 ## 使用方法之新建电台：<br>
 - 1.启动主程序点击新建电台打开电台新建窗口<br>
 - 2.填写对应信息标*的为必填。
