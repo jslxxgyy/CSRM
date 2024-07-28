@@ -3,7 +3,7 @@
 This Readme was translated using ChatGPT-4o, if it is different from the Simplified Chinese version, the Simplified Chinese version shall prevail.
 <h2>Cities Skylines Radio Manager, CSRM</h2>
 <h3>A GUI-based radio creation software for Cities: Skylines II.<br></h3>
-<a href="https://github.com/jslxxgyy/CSRM/blob/main/docs/cn/READNE.md">简体中文</a> | English
+<a href="https://github.com/jslxxgyy/CSRM/blob/main/docs/cn/README.md">简体中文</a> | English
 
 </div>
 
