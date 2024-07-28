@@ -2,12 +2,14 @@
 
 <h2>Cities Skylines Radio Manager,CSRM</h2>
 <h3>一个GUI化的《都市:天际线Ⅱ》电台制作软件。<br></h3>
-<a href="https://github.com/jslxxgyy/CSRM/blob/main/docs/cn/READMD.md">简体中文</a>丨丨<a href="https://github.com/jslxxgyy/CSRM/blob/main/docs/en/Readme.md">English</a>
+简体中文丨<a href="https://github.com/jslxxgyy/CSRM/blob/main/docs/en/Readme.md">English</a>
 
 </div>
 
-# ***重要提醒：***<br>
-# ***本软件由易语言编写，大部分杀毒软件都会将其识别为木马病毒。如出现安全提示请自行添加信任区，本人已尽量对编译结果做了打乱处理，源码已开源，介意勿用！***<br>
+## ***重要提醒：***<br>
+## ***本软件由易语言编写，大部分杀毒软件都会将其识别为木马病毒。如出现安全提示请自行添加信任区，本人已尽量对编译结果做了打乱处理，源码已开源，介意勿用！***<br>
+
+---
 
 ### 软件特点：
 #### 本软件完全采用 GUI 界面，可根据用户输入的内容来一键生成电台目录树及对应的json配置文件，无需手动编辑 json 文件，交互友好。自带 ffmpeg，可以将音频文件转换为需要的 .ogg 格式。
