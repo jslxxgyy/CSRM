@@ -1,6 +1,6 @@
 <div align="center">
 
-<h2>Cities Skylines Radio Manager,CSRM</h2>
+<h2>Cities Skylines Radio Manager，CSRM</h2>
 <h3>一个GUI化的《都市:天际线Ⅱ》电台制作软件。<br></h3>
 简体中文丨<a href="https://github.com/jslxxgyy/CSRM/blob/main/docs/en/Readme.md">English</a>
 
