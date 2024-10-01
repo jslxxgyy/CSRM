@@ -1,8 +1,0 @@
-{
-    "name":"电台网络名",
-    "nameId": "电台网络名",
-    "description": "这是一个示例电台网络",
-    "descriptionId": "这是一个示例电台网络",
-    "icon": "coui://extendedradio/CustomRadios/电台网络/电台网络图标.svg",
-    "allowAds": true
-}
