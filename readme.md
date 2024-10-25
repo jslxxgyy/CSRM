@@ -14,7 +14,7 @@
 
 本软件可根据输入的内容生成电台目录树及对应的json配置文件，无需手动编辑 json 文件，可导入/导出电台。自带 ffmpeg，可以将音频文件转换为需要的 .ogg 格式。
 
-> [!TIPS]
+> [!TIP]
 > 用户提示：
 > 在使用此软件前，请确保已安装 cities-skylines-2 模组 [ExtendedRadio](https://www.cslbbs.net/resources/extendedradio.326/)并能被正常加载。本软件可从CSUL的配置中读取游戏数据目录，建议与CSUL安装在同目录下。
 
