@@ -42,7 +42,7 @@
 在以上信息填写完毕后，在右方选择框中，即可向电台中添加音乐。支持主流的音频格式，非`.ogg`文件会调用ffmpeg自动转换。
 点击新建电台按钮即可生成电台。生成的电台位置由在设置中填写的游戏数据目录所决定。在生成完成后可导出电台，在输出文件夹中生成`output.zip`文件。
 
-[视频教程](https://www.bilibili.com/video/BV1Hvh1evEuw/)
+也可访问www.bilibili.com/video/BV1Hvh1evEuw/获取[视频教程](https://www.bilibili.com/video/BV1Hvh1evEuw/)
 
 
 ## 设置说明：
