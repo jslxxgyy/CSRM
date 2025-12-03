@@ -1,6 +1,6 @@
 [version]
 version=0.2.1
-build=121
+build=137
 [sources]
 num=4
 1=github
@@ -9,10 +9,11 @@ num=4
 4=github加速线路3
 5=none
 [URLs]
-1=https://github.com/jslxxgyy/CSRM/raw/refs/heads/main/docs/CSRM.0.2.1+build.121_win32.zip
-2=https://gh.llkk.cc/https://github.com/jslxxgyy/CSRM/raw/refs/heads/main/docs/CSRM.0.2.1+build.121_win32.zip
-3=https://gh-proxy.com/https://github.com/jslxxgyy/CSRM/raw/refs/heads/main/docs/CSRM.0.2.1+build.121_win32.zip
-4=https://proxy.pipers.cn/https://github.com/jslxxgyy/CSRM/raw/refs/heads/main/docs/CSRM.0.2.1+build.121_win32.zip
+1=https://github.com/jslxxgyy/CSRM/raw/refs/heads/main/docs/CSRM.0.2.1+build.137_win32.zip
+2=https://gh.llkk.cc/https://github.com/jslxxgyy/CSRM/raw/refs/heads/main/docs/CSRM.0.2.1+build.137_win32.zip
+3=https://gh-proxy.com/https://github.com/jslxxgyy/CSRM/raw/refs/heads/main/docs/CSRM.0.2.1+build.137_win32.zip
+4=https://proxy.pipers.cn/https://github.com/jslxxgyy/CSRM/raw/refs/heads/main/docs/CSRM.0.2.1+build.137_win32.zip
 5=none
 [log]
-log=【新增】导入mp3,ogg,wav,flac格式的音频文件时可跳过FFmpeg转码<br>【新增】FFmpeg转码音频支持手动指定一个32kbps-640kbps的码率<br>【新增】FFmpeg转码引入多进程并发，可同时转码多个音频文件，降低转码耗时<br>【修复】修复FFmpeg处理采样率高于48kHz的音频文件时，编码器初始化失败的问题<br>【修复】修复了在未选择CSUL配置文件时，关闭CSUL配置文件导入对话框后报错的问题<br>【修复】修复因配置文件无效自动跳转设置窗口后，保存设置引发报错的问题<br>【优化】在设置各项目录时新增目录合法性检查<br>【优化】关于窗口整合预览Readme，License与Changelog<br>【优化】缩短新建电台步骤间预留的延时，从1000ms下调至500ms<br>【优化】新建电台时的进度显示可实时查看已完成转码的音频文件数量<br>【优化】多处UI细节与文本表述优化
+log=0.2.1+build.137<br>【新增】加入在线检查和一键更新功能<br>【修复】修复从旧版本升级后无法新建电台的问题<br>【优化】加入了在新建电台时，如果配置文件无效，对模组版本、循环播放、多线程、音频转码等设置项的默认值<br>【优化】启动时会更详细地检查配置文件<br>0.2.1+build.121<br>【新增】导入mp3,ogg,wav,flac格式的音频文件时可跳过FFmpeg转码<br>【新增】FFmpeg转码音频支持手动指定一个32kbps-640kbps的码率<br>【新增】FFmpeg转码引入多进程并发，可同时转码多个音频文件，降低转码耗时<br>【修复】修复FFmpeg处理采样率高于48kHz的音频文件时，编码器初始化失败的问题<br>【修复】修复了在未选择CSUL配置文件时，关闭CSUL配置文件导入对话框后报错的问题<br>【修复】修复因配置文件无效自动跳转设置窗口后，保存设置引发报错的问题<br>【优化】在设置各项目录时新增目录合法性检查<br>【优化】关于窗口整合预览Readme，License与Changelog<br>【优化】缩短新建电台步骤间预留的延时，从1000ms下调至500ms<br>【优化】新建电台时的进度显示可实时查看已完成转码的音频文件数量<br>【优化】多处UI细节与文本表述优化
+
