@@ -1,3 +1,6 @@
+> [!CAUTION]
+> # 由于个人原因，此项目下一版本（0.2.2 - Eula）无限期推迟，感谢您对此项目的支持！
+
 <div align="center">
 
 <h2>Cities Skylines Radio Manager，CSRM</h2>
