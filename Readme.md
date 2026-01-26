@@ -139,8 +139,8 @@ CSRM项目采取双分支并行的开发模式。main分支为主分支，另一
 ## 致谢
 感谢[Snap.Hutao](https://github.com/DGP-Studio/Snap.Hutao)[^1]项目，该项目对CSRM文档与Changelog的规范化提供了借鉴与参考  
 感谢[Snap.Hutao.Deployment](https://github.com/Masterain98/Snap.Hutao.Deployment)项目，该项目对CSRM的更新器设计提供了借鉴与参考  
-感谢[FFmpeg](https://github.com/FFmpeg/FFmpeg)项目，该项目为CSRM提供了音频转码功能  
+感谢[FFmpeg](https://github.com/FFmpeg/FFmpeg)项目，该项目为CSRM提供了音频转码功能，依照GPL开源协议，您可以在[此仓库](https://github.com/jslxxgyy/FFmpeg)查看CSRM使用的FFmpeg的源代码  
 感谢[ExtendedRadio](https://github.com/AlphaGaming7780/ExtendedRadio)项目，作为CSRM的依赖，没有该项目就没有CSRM  
 [^1]: Snap.Hutao项目已因收到上海米哈游天命科技有限公司的律师函而停止开发，链接指向的原Snap.Hutao仓库已不再公开，如需参阅源代码请查看[此仓库](https://github.com/jslxxgyy/Snap.Hutao.backup)，Snap.Hutao的继任项目请查看[此仓库](https://github.com/wangdage12/Snap.Hutao)  
-我们希望上海米哈游天命科技有限公司能先做到“TECH OTAKU EMBRACE OPEN SOURCE COMMUNITY”，再做到“TECH OTAKU SAVE THE WORLD”  
+我们希望上海米哈游天命科技有限公司能做到“TECH OTAKU EMBRACE OPEN SOURCE COMMUNITY”  
 最后，向Snap.Hutao的的开发者 —— [DGP-Studio](https://github.com/DGP-Studio)中的每一位成员，每位Snap.Hutao项目的贡献者与支持者，[@wangdage12](https://github.com/wangdage12)，以及每位努力在桌面端《原神》上获得最佳和更佳游戏体验的玩家致以最崇高的敬意！
