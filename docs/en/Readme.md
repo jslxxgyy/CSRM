@@ -5,7 +5,7 @@
 
 <h2>Cities Skylines Radio Manager, CSRM</h2>
 <h3>A radio creation software for "Cities: Skylines 2".<br></h3>
-<a href="https://github.com/jslxxgyy/CSRM/blob/main/docs/en/Readme.md">简体中文</a>丨English
+<a href="https://github.com/jslxxgyy/CSRM/blob/main/Readme.md">简体中文</a>丨English
 
 </div>
 
